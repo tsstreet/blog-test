@@ -6,10 +6,7 @@
             </router-link>
             <router-link class="header-link" to="/about">
                 About
-            </router-link>
-            <a class="header-link" target="_blank" href="https://github.com/chienbg2000/chienbg2000.github.io">
-                Link tải mã nguồn
-            </a>
+            </router-link>       
         </div>
     </div>
 </template>
